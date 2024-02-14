@@ -4,6 +4,9 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcha0822&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcha0822&layout=compact)](https://github.com/jhcha0822/github-readme-stats)
-
+</center>
+<center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhcha0822)](https://solved.ac/jhcha0822/)
+</center>

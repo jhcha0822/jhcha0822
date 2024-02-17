@@ -14,11 +14,8 @@
 <br>
 
 <div align="center">
-  <h4>백엔드 개발을 공부중입니다.</h4>
+  <h3>백엔드 개발을 공부중입니다.</h4>
 </div>
-<br>
-
-###
 
 <br clear="both">
 

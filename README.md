@@ -3,7 +3,7 @@
 </div>
 <!-- ![달리는 치타 차정현](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=달리는%20치타%20차정현&fontAlignY=40) -->
 <div align="center">
-  <h2> 달리는 치타 차정현 </h2>
+  <h3>달리는 치타 차정현</h3>
 </div>
 
 <br clear="both">
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <h3>백엔드 개발을 공부중입니다.</h4>
+  <h3>백엔드 개발을 공부중입니다.</h3>
 </div>
 
 <br clear="both">

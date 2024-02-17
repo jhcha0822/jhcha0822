@@ -1,4 +1,12 @@
-![달리는 치타 차정현](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=달리는%20치타%20차정현&fontAlignY=40)
+<div align="center">
+  <img src="https://github.com/jhcha0822/jhcha0822/assets/73012166/fc0a5c87-e684-480d-bb20-e48fd9a5077b" height="300" alt="running_cheetah"/>  
+</div>
+<!-- ![달리는 치타 차정현](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=달리는%20치타%20차정현&fontAlignY=40) -->
+<div align="center">
+  <h2> 달리는 치타 차정현 </h2>
+</div>
+
+<br clear="both">
 
 <div align="center">
   <details> <!-- 내 정보 -->

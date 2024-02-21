@@ -102,7 +102,7 @@
 <!--   
   <img src="https://github-readme-stats.vercel.app/api?username=jhcha0822&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true" height="150" alt="stats graph"  /> 
 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhcha0822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhcha0822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="170" alt="languages graph"/>
   <a href="https://solved.ac/jhcha0822/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhcha0822"> 
   </a>

@@ -216,7 +216,7 @@
 <div align="center">
 
   <!-- Github Streak & languages graph--> 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jhcha0822&theme=transparent&card_width=440)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jhcha0822&theme=transparent&card_width=400)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhcha0822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="195" alt="languages graph"/>  
   <!-- Github Activity Graph
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhcha0822&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

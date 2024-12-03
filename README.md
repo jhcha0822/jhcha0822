@@ -102,7 +102,7 @@
       </td>
     </tr>
     <tr>
-      <td>Database, Cache</td>
+      <td>DB/Cache</td>
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
         <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat" alt="Oracle Badge">
@@ -111,7 +111,7 @@
       </td>
     </tr>
     <tr>
-      <td>Container, CI/CD</td>
+      <td>DevOps</td>
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
         <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat" alt="GitLab Badge">
